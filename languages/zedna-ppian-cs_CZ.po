@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zedna pending post indicator and notifier\n"
+"POT-Creation-Date: 2019-09-05 14:02-0700\n"
+"PO-Revision-Date: 2019-09-05 14:11-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: zedna-pending-post-inidicator-and-notifier.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: zedna-pending-post-inidicator-and-notifier.php:76
+msgid "Pending post indicator and notifier"
+msgstr "Indikace a oznámení nových příspěvků"
+
+#: zedna-pending-post-inidicator-and-notifier.php:84
+msgid "Notification settings saved."
+msgstr "Nastavení oznámení uloženo."
+
+#: zedna-pending-post-inidicator-and-notifier.php:88
+msgid "Post Status Notifications"
+msgstr "Oznámení o stavu příspěvků"
+
+#: zedna-pending-post-inidicator-and-notifier.php:93
+msgid "Pending Review Notifications"
+msgstr "Oznámení o čekajícím příspěvku"
+
+#: zedna-pending-post-inidicator-and-notifier.php:96
+msgid ""
+"Enter email addresses which should be notified of posts pending review "
+"(comma separated)."
+msgstr ""
+"Zadejte e-mailové adresy, na které by měly být oznámení odeslány (oddělené "
+"čárkami)."
+
+#: zedna-pending-post-inidicator-and-notifier.php:102
+msgid "Post Review Notifications"
+msgstr "Odeslat oznámení o revizi"
+
+#: zedna-pending-post-inidicator-and-notifier.php:107
+msgid "Notify contributor when their post is approved"
+msgstr "Upozornit autora na schválení jeho příspěvku"
+
+#: zedna-pending-post-inidicator-and-notifier.php:111
+msgid "Notify contributor when their post is declined (sent back to drafts)"
+msgstr ""
+"Upozornit autora, když je jeho příspěvek odmítnut (status změněn zpět do "
+"pracovní verze)"
+
+#: zedna-pending-post-inidicator-and-notifier.php:118
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: zedna-pending-post-inidicator-and-notifier.php:122
+msgid "If you like this plugin, please donate us for faster upgrade"
+msgstr "Pokud se vám plugin líbí, můžete nám přispět na další vývoj"
+
+#: zedna-pending-post-inidicator-and-notifier.php:143
+#: zedna-pending-post-inidicator-and-notifier.php:144
+msgid "is waiting for approval"
+msgstr "čeká na schválení"
+
+#: zedna-pending-post-inidicator-and-notifier.php:144
+msgid "New post from"
+msgstr "Nový příspěvek od"
+
+#: zedna-pending-post-inidicator-and-notifier.php:145
+msgid "Author"
+msgstr "Autor"
+
+#: zedna-pending-post-inidicator-and-notifier.php:146
+msgid "Title"
+msgstr "Název"
+
+#: zedna-pending-post-inidicator-and-notifier.php:149
+msgid "Category"
+msgstr "Kategorie"
+
+#: zedna-pending-post-inidicator-and-notifier.php:150
+msgid "Check the post on"
+msgstr "Zkontrolujte příspěvek na"
+
+#: zedna-pending-post-inidicator-and-notifier.php:157
+msgid "approved"
+msgstr "schválen"
+
+#: zedna-pending-post-inidicator-and-notifier.php:158
+msgid "Your post has been published on"
+msgstr "Příspěvek byl publikován na"
+
+#: zedna-pending-post-inidicator-and-notifier.php:159
+#: zedna-pending-post-inidicator-and-notifier.php:167
+msgid "By editor"
+msgstr "Šéfredaktor"
+
+#: zedna-pending-post-inidicator-and-notifier.php:165
+msgid "rejected"
+msgstr "zamítnut"
+
+#: zedna-pending-post-inidicator-and-notifier.php:166
+msgid "Your post has been rejected. You can fix it on"
+msgstr "Váš příspěvek byl zamítnut. Můžete jej opravit na"
+
+#. Plugin Name of the plugin/theme
+msgid "Zedna pending post indicator and notifier"
+msgstr "Zedna pending post indicator and notifier"
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/zedna#content-plugins"
+msgstr "https://profiles.wordpress.org/zedna#content-plugins"
+
+#. Description of the plugin/theme
+msgid ""
+"Show the number of pending posts waiting for approval in the admin menu, if "
+"any. Also automatically supports custom post types. Sends email notification "
+"of posts pending review."
+msgstr ""
+"Zobrazení počtu příspěvků čekajících na schválení v administraci (pokud "
+"existují). Automatická podpora také custom post typů. Odešle e-mail s "
+"upozorněním na čekající články."
+
+#. Author of the plugin/theme
+msgid "Radek Mezulanik"
+msgstr "Radek Mezuláník"
+
+#. Author URI of the plugin/theme
+msgid "http://mezulanik.cz"
+msgstr "http://mezulanik.cz"
